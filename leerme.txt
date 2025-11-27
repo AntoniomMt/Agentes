@@ -1,0 +1,9 @@
+Practica 4: 
+iris
+4 Entradas
+3-2 Salidas 
+
+¿Cual arquitectura optima? 
+
+Datos Salida esperada Salida calculada
+,,mmk
